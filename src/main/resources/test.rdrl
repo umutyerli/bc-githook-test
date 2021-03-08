@@ -1,7 +1,0 @@
-import java.lang.Number;
-
-rule "test"
-	dialect "mvel"
-	when
-	then
-end
